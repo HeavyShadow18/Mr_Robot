@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Templates/Commands & Tools Template.md",
+                "file": "nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands & Tools Template"
+              "title": "nmap"
             }
           },
           {
@@ -62,19 +62,9 @@
               "icon": "lucide-file",
               "title": "netcat"
             }
-          },
-          {
-            "id": "b218bf994b82841e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hacking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,15 +209,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b218bf994b82841e",
+  "floating": {
+    "id": "c369c2f36742e276",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0dad41cc2ab8b23f",
+        "type": "window",
+        "children": [
+          {
+            "id": "4ee72fdbe930448f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b218bf994b82841e",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2048,
+        "y": 0,
+        "width": 2048,
+        "height": 2124,
+        "maximize": false,
+        "zoom": 2
+      }
+    ]
+  },
+  "active": "80e17f8f5d276e7b",
   "lastOpenFiles": [
+    "nmap.md",
+    "Hacking Tools.md",
+    "exploitdb.md",
+    "99. Templates/Commands & Tools Template.md",
     "SHELLs.md",
     "Reverse Shell.md",
     "netcat.md",
-    "99. Templates/Commands & Tools Template.md",
     "netcat-help.md",
-    "Hacking Tools.md",
-    "exploitdb.md",
     "gobuster.md",
     "gobuster-help.md",
     "Metasploit.md",
