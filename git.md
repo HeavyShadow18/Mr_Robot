@@ -1,3 +1,6 @@
+---
+Index: "[[Linux Commands]]"
+---
 
 how to push a existing Dir to git repo 
 ~~~ bash
