@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Templates/Commands Template.md",
+                "file": "99. Templates/Commands & Tools Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands Template"
+              "title": "Commands & Tools Template"
             }
           },
           {
@@ -55,16 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metasploit.md",
+                "file": "netcat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metasploit"
+              "title": "netcat"
+            }
+          },
+          {
+            "id": "b218bf994b82841e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Metasploit"
+              "title": "Backlinks"
             }
           },
           {
@@ -156,12 +165,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Metasploit"
+              "title": "Outgoing links"
             }
           },
           {
@@ -185,13 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metasploit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Metasploit"
+              "title": "Outline"
             }
           }
         ]
@@ -211,9 +218,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "367cc88b3c848b48",
+  "active": "b218bf994b82841e",
   "lastOpenFiles": [
+    "SHELLs.md",
+    "Reverse Shell.md",
+    "netcat.md",
+    "99. Templates/Commands & Tools Template.md",
+    "netcat-help.md",
     "Hacking Tools.md",
+    "exploitdb.md",
+    "gobuster.md",
+    "gobuster-help.md",
     "Metasploit.md",
     "ssh.md",
     "Hacking Tools",
@@ -222,7 +237,6 @@
     "git-help.md",
     "rsync-help.md",
     "rsync.md",
-    "99. Templates/Commands Template.md",
     "99. Templates/Command help page template.md",
     "git.md",
     "99. Templates",

@@ -1,5 +1,5 @@
 ---
-Index: "[[Linux Commands]]"
+Index: 
 help page:
 ---
 # Notes 
