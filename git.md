@@ -6,7 +6,7 @@ how to push a existing Dir to git repo
 ~~~ bash
 git remote add origin https://github.com/HeavyShadow18/Mr_Robot.git
 git branch -M main
-git push -u origin maink
+git push -u origin main
 ~~~
 
 Creat a repo from the Cli
