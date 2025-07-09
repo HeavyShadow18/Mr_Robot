@@ -243,8 +243,12 @@
       }
     ]
   },
-  "active": "80e17f8f5d276e7b",
+  "active": "7de569a4de46b85f",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "git.md",
+    "test.md",
     "nmap.md",
     "Hacking Tools.md",
     "exploitdb.md",
@@ -264,7 +268,6 @@
     "rsync-help.md",
     "rsync.md",
     "99. Templates/Command help page template.md",
-    "git.md",
     "99. Templates",
     "README.md",
     "Welcome.md"
