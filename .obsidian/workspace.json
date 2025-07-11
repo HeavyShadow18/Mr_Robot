@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1752038653-LTBY.md",
+                "file": "Journal/250711-pwn-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1752038653-LTBY"
+              "title": "250711-pwn-notes"
             }
           },
           {
@@ -224,10 +224,14 @@
                 "id": "b218bf994b82841e",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "exploitdb.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "exploitdb"
                 }
               }
             ]
@@ -245,14 +249,19 @@
   },
   "active": "80e17f8f5d276e7b",
   "lastOpenFiles": [
+    "1752202015-SZIS.md~",
+    "1752202015-SZIS.md",
+    "Linux Commands.md~",
+    "hello world.md",
+    "Website Enumeration.md",
+    "ssh-help.md",
+    "exploitdb.md",
     "git.md",
-    "1752038653-LTBY.md",
     "Untitled.md",
     "Untitled 1.md",
     "test.md",
     "nmap.md",
     "Hacking Tools.md",
-    "exploitdb.md",
     "99. Templates/Commands & Tools Template.md",
     "SHELLs.md",
     "Reverse Shell.md",
@@ -263,14 +272,11 @@
     "Metasploit.md",
     "ssh.md",
     "Hacking Tools",
-    "ssh-help.md",
     "Linux Commands.md",
     "git-help.md",
     "rsync-help.md",
     "rsync.md",
     "99. Templates/Command help page template.md",
-    "99. Templates",
-    "README.md",
-    "Welcome.md"
+    "99. Templates"
   ]
 }
